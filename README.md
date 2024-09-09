@@ -21,7 +21,7 @@ Este projeto é um site interativo que permite aos usuários solicitar um papo a
 
 
 
-#### Instruções para Uso
+### Instruções para Uso
 
 - **Clone o Repositório**: Para começar, faça um clone do repositório para o seu ambiente local.
 - **Personalize**: Você pode modificar os GIFs, estilos e lógica conforme necessário para atender às suas necessidades específicas.
