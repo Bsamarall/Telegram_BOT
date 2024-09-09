@@ -69,6 +69,9 @@ function showFireworks() {
 document.getElementById('solicitarPapoBtn').addEventListener('click', function() {
     // Mudar o GIF
     document.getElementById('gifImage').src = "https://media1.tenor.com/m/OXn4ngtA1w4AAAAd/ryan-gosling.gif";
+
+    //Exibir um pop-up
+    alert("Mensagem enviada ao Telegram do Rei Soberano!");
     
     // Exibir fogos de artifício
     showFireworks();
